@@ -5,10 +5,10 @@
 ## Contact Info
 
 > **Telephone:** +375-29-763-1-600
-
-> **E-mail:** saint_wolf@tut.by
-
-> **Github** @AMartsinkevich
+>
+> **E-mail:** [saint_wolf@tut.by](mailto:saint_wolf@tut.by)
+>
+> **Github** [@AMartsinkevich](https://github.com/AMartsinkevich)
 
 ---
 
