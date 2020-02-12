@@ -5,7 +5,9 @@
 ## Contact Info
 
 > **Telephone:** +375-29-763-1-600
+
 > **E-mail:** saint_wolf@tut.by
+
 > **Github** @AMartsinkevich
 
 ---
@@ -48,3 +50,19 @@ Great potential, passion and ability to learn fast
 ```
 
 [GitHub](https://github.com/AMartsinkevich)
+
+## Experience
+
+- Courses
+- Hackathones
+- Freelance projects
+
+## Education
+
+- Courses
+- Seminars
+- Lectures
+
+## English
+
+* Intermediate
