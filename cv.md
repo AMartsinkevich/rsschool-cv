@@ -1,17 +1,50 @@
 # Aliaksandr Martsinkevich
+
 ---
+
 ## Contact Info
+
 > **Telephone:** +375-29-763-1-600
 > **E-mail:** saint_wolf@tut.by
 > **Github** @AMartsinkevich
+
 ---
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+
+## Summary
+
+Great potential, passion and ability to learn fast
+
+## Skills
+
+- HTML
+- CSS
+- JS
+
+## Code examples
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSSchool</title>
+    <style>
+        .rs {
+            font-weight: bold;
+            font-size: 5rem;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="rs">
+        <script>
+            document.write("RSSchool" + " is " + "Cool!");
+        </script>
+    </div>    
+</body>
+</html>
+```
+
+[GitHub](https://github.com/AMartsinkevich)
